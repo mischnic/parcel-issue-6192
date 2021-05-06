@@ -1,0 +1,9 @@
+# /.cache is for Parcel 1, but the folder might stick around if you switch to an
+# old checkout.
+/.cache
+/.parcel-cache
+/.rpt2_cache
+/coverage
+/dist
+/node_modules
+

@@ -1,0 +1,13 @@
+{
+  "name": "cubing",
+  "version": "0.16.7",
+  "description": "A collection of Javascript cubing libraries.",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "parcel": "^2.0.0-nightly.643",
+    "postcss": "^8.2.14"
+  },
+  "scripts": {
+    "build": "parcel build --no-scope-hoist --no-optimize --no-source-maps src/demo/index.html"
+  }
+}
